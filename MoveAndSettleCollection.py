@@ -3,7 +3,7 @@
 Created on Mon Jun 13 10:57:47 2022
 Edited last on 6/21/2022 at 8:00 am
 
-@author: shunn, abakhtar
+@author: tbates
 """
 
 import automation1 as a1
