@@ -39,9 +39,9 @@ class AerotechFormat():
         ax1 = plt.subplot2grid((rows, cols), (1, 0), rowspan=4, colspan=3) # Estabilishing subplot number
         
         ax1.spines['top'].set_visible(False)
-#        ax1.spines['bottom'].set_visible(False)
+        #ax1.spines['bottom'].set_visible(False)
         ax1.spines['right'].set_visible(False)
-#        ax1.spines['left'].set_visible(False)
+        #ax1.spines['left'].set_visible(False)
         
         # TEXT BOX 1 #
         ax2 = plt.subplot2grid((rows, cols), (5, 0), rowspan=2, colspan=1)
