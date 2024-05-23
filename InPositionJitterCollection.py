@@ -2,7 +2,7 @@
 """
 Created on Thu Jun 16 09:34:03 2022
 
-@author: MECHASSY
+@author: tbates
 Edited by TB on 01/08/2024
 Deleted underscores from A1 commands
 Modified the ai0 data collection to allow selecting which axis the external sensor feedback comes in on
