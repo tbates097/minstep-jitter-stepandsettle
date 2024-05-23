@@ -3,7 +3,7 @@
 Created on Mon Jun 13 13:38:45 2022
 Edited last on 6/21/2022 at 8:00 am
 
-@author: shunn
+@author: tbates
 #Modified by JStarr 12/28/23
 #Modified by TB 01/12/2024
 #Modified the ai0 data collection to allow selecting which axis the external sensor feedback comes in on
