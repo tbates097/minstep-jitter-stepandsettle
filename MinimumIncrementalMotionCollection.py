@@ -2,7 +2,7 @@
 """
 Created on Thu Jun 23 10:08:33 2022
 
-@author: shunn
+@author: tbates
 Modified by JStarr 12/28/23
 Modified by TB on 01/08/2024
 Deleted underscores from A1 commands
