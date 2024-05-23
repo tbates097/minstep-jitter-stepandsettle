@@ -2,7 +2,7 @@
 """
 Created on Thu May 26 15:08:17 2022
 
-@author: shunn
+@author: tbates
 """
 import matplotlib.pyplot as plt
 import matplotlib.image as image
